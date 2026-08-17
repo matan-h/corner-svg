@@ -77,9 +77,9 @@
      borderopacity="0.3"
      inkscape:pageopacity="0"
      inkscape:pageshadow="2"
-     inkscape:zoom="4"
-     inkscape:cx="3859.125"
-     inkscape:cy="5698.625"
+     inkscape:zoom="2.56"
+     inkscape:cx="5870.1172"
+     inkscape:cy="8324.0235"
      inkscape:document-units="mm"
      inkscape:showpageshadow="2"
      inkscape:pagecheckerboard="true"
@@ -225,7 +225,7 @@
        id="tspan18"
        style="font-size:5.64444px;stroke-width:0.264583"
        x="3001.7866"
-       y="2282.9399">top of the triangular</tspan></text><text
+       y="2282.9399">top of the triangle</tspan></text><text
      xml:space="preserve"
      style="font-style:normal;font-variant:normal;font-weight:800;font-stretch:normal;font-size:7.76111px;font-family:'Adwaita Sans';-inkscape-font-specification:'Adwaita Sans Ultra-Bold';writing-mode:lr-tb;direction:ltr;fill:#0000ff;stroke-width:0.264583"
      x="2606.1101"
@@ -899,7 +899,7 @@
        id="tspan380"
        style="stroke-width:0.264583"
        x="3981.6636"
-       y="8963.1748">A really  random song I think in Chinese in YouTube, and it sounds nice</tspan><tspan
+       y="8963.1748">A  sad,unknown, song in Chinese in YouTube, and it sounds nice</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="3981.6636"
@@ -1386,7 +1386,7 @@
        style="stroke-width:0.264583"
        x="5659.3945"
        y="7765.6333"
-       id="tspan69489">note: for mathematicians in this field, have an abstraction for a function or a pile of dirt : They call it a probability distribution </tspan><tspan
+       id="tspan69489">note: mathematicians in this field have an abstraction for a function or a pile of dirt : They call it a probability distribution </tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5659.3945"
@@ -1406,7 +1406,7 @@
        style="stroke-width:0.264583"
        x="5659.3945"
        y="7818.5498"
-       id="tspan154023">its also incredibly annoying, since those probability distributions might have nothing to do with probability, it left you wonder what is the probability distribution of a circle.</tspan><tspan
+       id="tspan154023">its also incredibly annoying, since those probability distributions might have nothing to do with probability, it leaves you wondering what the probability distribution of a circle is.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5659.3945"
@@ -1431,22 +1431,22 @@
        style="stroke-width:0.264583"
        x="5659.3945"
        y="7884.6958"
-       id="tspan241647">One day, RA                       notice he have a problem. he run a carrot delivery program. There are mainly three location he need the carrots to go to. the park (A),the garden (B) , the hill (C) and the pool (D)</tspan><tspan
+       id="tspan241647">One day, RA                       noticed he had a problem. he ran a carrot delivery program. There are mainly four locations he needed the carrots to go to. the park (A),the garden (B) , the hill (C) and the pool (D)</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5659.3945"
        y="7897.9248"
-       id="tspan243583">On that day,                       the status was this: A:3,B:2,  and he need to deliver 1 to C and 4 to D. and he thought a lot about this from when should he bring the missing carrots (so he could sleep instead of walking extra steps) ?</tspan><tspan
+       id="tspan243583">On that day,                       the status was this: A:3,B:2,  and he needed to deliver 1 to C and 4 to D. and he thought a lot about this: from where should he bring the missing carrots (so he could sleep instead of walking extra steps) ?</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5659.3945"
        y="7911.1538"
-       id="tspan326747">wouldn't it be                     nice if there was a formula that takes the distances and calculate the fastest way?</tspan><tspan
+       id="tspan326747">wouldn't it be                     nice if there was a formula that takes the distances and calculates the fastest way?</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5659.3945"
        y="7924.3828"
-       id="tspan320949">so he started                      thinking . he started with the one carrot at C. its easy to see it need to come from the closest place to C, which in this case is A.</tspan><tspan
+       id="tspan320949">so he started                      thinking . he started with the one carrot at C. it's easy to see it needs to come from the closest place to C, which in this case is A.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5659.3945"
@@ -1456,7 +1456,7 @@
        style="stroke-width:0.264583"
        x="5659.3945"
        y="7950.8413"
-       id="tspan469760">after that it was easy for him to see a mathematical formula: he assigned each way its &quot;cost&quot;, how many steps. then he did calculate every possible way and find out he must step 11 steps. 1(1)+4(2)+2(0)+1(2)=11</tspan><tspan
+       id="tspan469760">after that it was easy for him to see a mathematical formula: he assigned each way its &quot;cost&quot;, how many steps. then he calculated every possible way and found out he must take 11 steps. 1(1)+4(2)+2(0)+1(2)=11</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5659.3945"
@@ -1476,7 +1476,7 @@
        style="stroke-width:0.264583"
        x="5659.3945"
        y="8003.7578"
-       id="tspan739494">It was so successful so they ask every rabbit to submit its request for carrots at 8:00 AM. While looking at the submissions RA notice something: most of it was predictable. and if he could predict the future well enough, </tspan><tspan
+       id="tspan739494">It was so successful that they asked every rabbit to submit its request for carrots at 8:00 AM. While looking at the submissions RA noticed something: most of them were predictable. and if he could predict the future well enough, </tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5659.3945"
@@ -1491,17 +1491,17 @@
        style="stroke-width:0.264583"
        x="5659.3945"
        y="8043.4453"
-       id="tspan779022">So, he adopted a new method.  he start from the end of the week.</tspan><tspan
+       id="tspan779022">So, he adopted a new method.  he started from the end of the week.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5659.3945"
        y="8056.6743"
-       id="tspan820160">in about 50% of the week there is a party in the pool. on the other half, there was rain. so if there was a party, isn't it better to bring carrots to D before if the sky looks nice?</tspan><tspan
+       id="tspan820160">about 50% of the weeks, there is a party in the pool. on the other half, it rained. so if there was a party, isn't it better to bring carrots to D beforehand if the sky looks nice?</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5659.3945"
        y="8069.9033"
-       id="tspan846108">He changed his program to accept not only amount of carrots and locations, but also the current whether. it does calculate the right amount, predicting what might be needed and where, not only now but in the future.</tspan><tspan
+       id="tspan846108">He changed his program to accept not only amount of carrots and locations, but also the current weather. it calculates the right amount, predicting what might be needed and where, not only now but in the future.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5659.3945"
@@ -1521,7 +1521,7 @@
        id="tspan256375"
        style="font-size:14.1111px;fill:#ffffff;stroke-width:0.264583"
        x="5630.7446"
-       y="7670.5386">RA is a very smart and very lazy rabbit. He is the richest rabbit as of date. there are rummers that he was a high-school woman student that a magician transformed into a rabbit.</tspan></text><image
+       y="7670.5386">RA is a very smart and very lazy rabbit. He is the richest rabbit to date. there are rumors that he was a high-school female student that a magician transformed into a rabbit.</tspan></text><image
      preserveAspectRatio="none"
      inkscape:svg-dpi="96"
      width="53.089264"
@@ -1658,217 +1658,212 @@
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8175.3745"
-       id="tspan65789">RA once found a small phone, he learned how to write simple math programs on it, and used it in multiple occasions during the route calculations.. </tspan><tspan
+       id="tspan65789">RA once found a small phone, he learned how to write simple math programs on it, and used it on multiple occasions during the route calculations.. </tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8188.6035"
-       id="tspan118443">but right now, the delivery company only have one phone. so anytime they need to a new route plan, they come to RA and it disturb him while sleeping.</tspan><tspan
+       id="tspan118443">but right now, the delivery company only has one phone. so whenever they need a new route plan, they come to RA and it disturbs him while sleeping.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8201.833"
-       id="tspan155741">So what if every rabbit could have a phone? RA as of now, is the only one that can read numbers in the store, but it doesn't help. &quot;Also, &quot; he notices to himself. &quot;we don't need the best phone</tspan><tspan
+       id="tspan155741">So what if every rabbit could have a phone? RA, as of now, is the only one that can read numbers in the store, but that doesn't help. &quot;Also, &quot; he thinks. &quot;we don't need the best phone</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8215.0615"
-       id="tspan171607">just a simple one that can do math.&quot;. so he searched for where phones are. There are 1.5B phones sold every year. he needed to read this 3 times to make sure he read the number correctly.</tspan><tspan
+       id="tspan171607">just a simple one that can do math.&quot;. so he searched for where phones were. 1.5B phones sold every year. he had to read this three times to make sure he read the number correctly.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8228.291"
-       id="tspan185025">&quot;what?? ~1.5B phones per year? it cant be one for person, since just ~150m people are born each year. does they eat it? He searched for a while to find a human that eats phones. after a while, </tspan><tspan
+       id="tspan185025">&quot;what?? ~1.5B phones per year? it can't be one per person, since just ~150m people are born each year. do they eat them? He searched for a while to find a human that eats phones. after a while, </tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8241.5205"
-       id="tspan203453">he tracks where the phone go? he chooses a phone and decide to track it. after about 2 years the owner buy a new phone, and put the phone on the drawer. after about 4 years there, the owner put that phone into the regular trash.</tspan><tspan
+       id="tspan203453">he tracks where the phone went. he chose a phone and decide to track it. after about 2 years the owner bought a new phone, and put the phone in the drawer. after about 4 years there, the owner put that phone in the electronics recycling bin.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8254.749"
-       id="tspan229095">did the phone dies? RA's phone was about 8 years old at this point. so he did a large operation, he rise up the salary by x2, and assign every delivery rabbit an (optimal) electric can to search for phones . he thought it would take about a week to get new phones, </tspan><tspan
+       id="tspan229095">did the phone die? RA's phone was about 8 years old at this point. so he did a large operation, he doubled the salary, and assigned every delivery rabbit an (optimal) an electronics recycling bin/regular trash place to search for phones.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8267.9785"
-       id="tspan196973">but turns out that humans tend to throw phones a lot. they found a phone every 4 minutes of search on avarge. in 3 months they found 1350 phones. in those, there was more then enugh for each rabbit to take 20 phones. but they dont. </tspan><tspan
+       id="tspan196973">he thought it would take about a week to get new phones,  but turns out that humans threw away phones a lot.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8281.208"
-       id="tspan585590">RA arrange all of them, sorted from the best working to the least. in the working phone he worked with old features and built a simple comaptablity operating system. </tspan><tspan
+       id="tspan1084456">they found a phone every 4 minutes of searching on avarge. in 3 months they found 1350 phones. of those, there were more then enugh for each rabbit to take 20 phones. but they dont. </tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8294.4365"
-       id="tspan650012" /><tspan
+       id="tspan585590">RA arrange all of them, sorted from the best working to the least. in the working phone he worked with old features and built a simple comaptablity operating system. </tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8307.666"
-       id="tspan651070">He installed the route app on all the devices, and gave it to the delivery rabbits. project phone done.</tspan><tspan
+       id="tspan650012" /><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8320.8945"
-       id="tspan651270">-</tspan><tspan
+       id="tspan651070">He installed the route app on all the devices, and gave it to the delivery rabbits. project phone done.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8334.124"
-       id="tspan17795">(look at arxiv.org/html/2502.01827v1) LLM-Based Steganography</tspan><tspan
+       id="tspan651270">-</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8347.3535"
-       id="tspan942898">When a new delivery request was sent to the company, it would automaticlly send a letter to the right delivery rabbit. </tspan><tspan
+       id="tspan17795">(look at arxiv.org/html/2502.01827v1) LLM-Based Steganography</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8360.582"
-       id="tspan696686">for the first years it works good. but then the days darken, and rabbits start stealing the carrots.</tspan><tspan
+       id="tspan942898">When a new delivery request was sent to the company, it would automaticlly send a letter to the right delivery rabbit. </tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8373.8115"
-       id="tspan703290">They read the letters and take the carrots instead of the rabbit that request them. they even built a company called evil.corp out of the profits.</tspan><tspan
+       id="tspan696686">for the first years it works good. but then the days darken, and rabbits start stealing the carrots.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8387.041"
-       id="tspan725960">RA first attempt was to encrypt the message. he installed on all of the phones a program to decode the text using a builtin key. it didnt work either</tspan><tspan
+       id="tspan703290">They read the letters and take the carrots instead of the rabbit that request them. they even built a company called evil.corp out of the profits.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8400.2695"
-       id="tspan726556">evil.corp still read the messages, but they now searched for messages that looks encrpyed. follow that delivery rabbit and take the carrots from the poor rabbit.</tspan><tspan
+       id="tspan725960">RA first attempt was to encrypt the message. he installed on all of the phones a program to decode the text using a builtin key. it didnt work either</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8413.499"
-       id="tspan731516">RA thought about this for a week. it seems impossible: he need to have undetectable letters. sure he could embed something like lemon secret writing, but it would be easy to detect, and evil.corp likely even tought about this before him.</tspan><tspan
+       id="tspan726556">evil.corp still read the messages, but they now searched for messages that looks encrpyed. follow that delivery rabbit and take the carrots from the poor rabbit.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8426.7275"
-       id="tspan760858">So, impossible letters. every one of the rabbits get a lot of letters. he considered sending constantly, every 10-40 minutes messages to all of the delivery team, but it would overload the slow mail system</tspan><tspan
+       id="tspan731516">RA thought about this for a week. it seems impossible: he need to have undetectable letters. sure he could embed something like lemon secret writing, but it would be easy to detect, and evil.corp likely even tought about this before him.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8439.957"
-       id="tspan854616">in additional to exposing every delivery rabbit constantly.</tspan><tspan
+       id="tspan760858">So, impossible letters. every one of the rabbits get a lot of letters. he considered sending constantly, every 10-40 minutes messages to all of the delivery team, but it would overload the slow mail system</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8453.1865"
-       id="tspan676342" /><tspan
+       id="tspan854616">in additional to exposing every delivery rabbit constantly.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8466.415"
-       id="tspan869060">in the next day he thought about somthing brillent.</tspan><tspan
+       id="tspan676342" /><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8479.6445"
-       id="tspan788574">&quot;wait. each of the delivery team alredy getting a lot of mail. what if the letter I would send would look exactly 1:1 as the rest? &quot;</tspan><tspan
+       id="tspan869060">in the next day he thought about somthing brillent.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8492.874"
-       id="tspan869068">&quot;and the data - that would not be in the letter, it would hide in the exact word choices.&quot;. and so,  he started the project</tspan><tspan
+       id="tspan788574">&quot;wait. each of the delivery team alredy getting a lot of mail. what if the letter I would send would look exactly 1:1 as the rest? &quot;</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8506.1025"
-       id="tspan889242">first, he assigned every word in rabbitish an index. then took 2,000 of messages he considered just normal. he wrote a simple program in his phone, </tspan><tspan
+       id="tspan869068">&quot;and the data - that would not be in the letter, it would hide in the exact word choices.&quot;. and so,  he started the project</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8519.332"
-       id="tspan896684">that assign every word an array with 52,000 random numbers, and starts to walk down the words, trying to predict the next word. </tspan><tspan
+       id="tspan889242">first, he assigned every word in rabbitish an index. then took 2,000 of messages he considered just normal. he wrote a simple program in his phone, </tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8532.5605"
-       id="tspan901774">if there was &quot;I AM WALKING &quot;,  the algorithm would change the numbers so I+AM would be closer to the value of WALKING </tspan><tspan
+       id="tspan896684">that assign every word an array with 52,000 random numbers, and starts to walk down the words, trying to predict the next word. </tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8545.79"
-       id="tspan960374">at first, the predictions were terrable, but as more letters flow in, it started changing</tspan><tspan
+       id="tspan901774">if there was &quot;I AM WALKING &quot;,  the algorithm would change the numbers so I+AM would be closer to the value of WALKING </tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8559.0195"
-       id="tspan1194398">eventually, he ends up with an algorithm that write a list of words and how reasonable they would come next, like so (ALBERT, with today at the end)</tspan><tspan
+       id="tspan960374">at first, the predictions were terrable, but as more letters flow in, it started changing</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8572.248"
-       id="tspan1041747" /><tspan
+       id="tspan1194398">eventually, he ends up with an algorithm that write a list of words and how reasonable they would come next, like so</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8585.4775"
-       id="tspan1006639">&quot;Hi, I am feeling _____ &quot;</tspan><tspan
+       id="tspan1041747" /><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8598.707"
-       id="tspan1026705">* great 7%</tspan><tspan
+       id="tspan1006639">&quot;Hi, I am feeling _____ &quot;</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8611.9355"
-       id="tspan1030007">* good 5%</tspan><tspan
+       id="tspan1026705">* great 7%</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8625.165"
-       id="tspan1031729">* happy 4%</tspan><tspan
+       id="tspan1030007">* good 5%</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8638.3936"
-       id="tspan1032327">* better 3%</tspan><tspan
+       id="tspan1031729">* happy 4%</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8651.623"
-       id="tspan1031661">* tired 3%</tspan><tspan
+       id="tspan1032327">* better 3%</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8664.8525"
-       id="tspan1032329" /><tspan
+       id="tspan1031661">* tired 3%</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8678.0811"
-       id="tspan1065641">so, he wrote a simple encode/decode from this LLM choices. it choses a &quot;normal&quot; prompt for that. then he installed a program that alredy have the pre-trained arrays on all phones, and sent the letters. and they look exactly like the </tspan><tspan
+       id="tspan1032329" /><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8691.3105"
-       id="tspan1071285">the rest of the letters so evil.corp didnt notice.</tspan><tspan
+       id="tspan1065641">so, he wrote a simple encode/decode from this LLM choices. it choses a &quot;normal&quot; prompt for that. then he installed a program that alredy have the pre-trained arrays on all phones, and sent the letters. and they look exactly like the </tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8704.54"
-       id="tspan1075973">later, there was a problem of traitors in the compony, so he choose a different key/prompt for each one of the rabbits so delivery rabbits couldnt look even at each other letters.</tspan><tspan
+       id="tspan1071285">the rest of the letters so evil.corp didnt notice.</tspan><tspan
        sodipodi:role="line"
        style="stroke-width:0.264583"
        x="5672.3179"
        y="8717.7686"
-       id="tspan1081645" /><tspan
-       sodipodi:role="line"
-       style="stroke-width:0.264583"
-       x="5672.3179"
-       y="8730.998"
-       id="tspan1081647" /></text><text
+       id="tspan1081647">later, there was a problem of traitors in the compony, so he choose a different key/prompt for each one of the rabbits so delivery rabbits couldnt look even at each other letters.</tspan></text><text
      xml:space="preserve"
      style="font-size:1.6px;line-height:1.25;font-family:sans-serif"
      x="5666.8789"
@@ -1878,7 +1873,7 @@
        id="tspan281528"
        x="5666.8789"
        y="7861.313"
-       style="font-weight:normal;font-size:1.6px">RA was 16 here. he created the delivery company because he's family always told him bring carrots to &quot;friends of the family&quot;, and if that's not enough those ask him to bring carrots to their friends,since he's already on the way...   </tspan></text><text
+       style="font-weight:normal;font-size:1.6px">RA was 16 here. he created the delivery company because his family always told him to bring carrots to &quot;friends of the family&quot;, and if that's not enough they ask him to bring carrots to their friends, since he's already on the way...   </tspan></text><text
      xml:space="preserve"
      id="text814246"
      style="font-size:26.6667px;line-height:1.25;font-family:sans-serif;white-space:pre;shape-inside:url(#rect814248)"
@@ -1890,111 +1885,204 @@
      inkscape:svg-dpi="96"
      width="5.9805293"
      height="5.9805293"
-     xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCg0KPCFET0NUWVBFIHN2ZyBQ
-VUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhp
-Y3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4NCjwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3
-d3cuc3ZncmVwby5jb20sIEdlbmVyYXRvcjogU1ZHIFJlcG8gTWl4ZXIgVG9vbHMgLS0+DQo8c3Zn
-IGhlaWdodD0iODAwcHgiIHdpZHRoPSI4MDBweCIgdmVyc2lvbj0iMS4xIiBpZD0iX3gzMl8iIHht
-bG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cu
-dzMub3JnLzE5OTkveGxpbmsiIA0KCSB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgIHhtbDpzcGFjZT0i
-cHJlc2VydmUiPg0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCgkuc3Qwe2ZpbGw6IzAwMDAwMDt9
-DQo8L3N0eWxlPg0KPGc+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTE0Ni4yNzgsMTk4LjgyYy03
-LjU4NiwwLTEzLjcyNSw2LjE0LTEzLjcyNSwxMy43MjVjMCw3LjU4Nyw2LjE0LDEzLjcyNiwxMy43
-MjUsMTMuNzI2DQoJCWM3LjU3OCwwLDEzLjcyNS02LjEzOSwxMy43MjUtMTMuNzI2QzE2MC4wMDMs
-MjA0Ljk1OSwxNTMuODU1LDE5OC44MiwxNDYuMjc4LDE5OC44MnoiLz4NCgk8cGF0aCBjbGFzcz0i
-c3QwIiBkPSJNMTk3LjE0NywxMTkuNjg2YzAuODg2LDE4LjAzLDMzLjkwNy0zNy4xMzQsMzIuMjk3
-LTYxLjM2NkMyMjcuODE3LDM0LjEwNiwxOTUuNTIsODcuMzg5LDE5Ny4xNDcsMTE5LjY4NnoiLz4N
-Cgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNDcuNzA0LDI3NC45NmwtMC4wMzYtMC4xMDhjLTAuMDA5
-LTAuMDE4LTAuMDE4LTAuMDYzLTAuMDI3LTAuMDcyYzAtMC4wMTgtMC4wMDktMC4wMTgtMC4wMDkt
-MC4wMTgNCgkJTDQ3LjcwNCwyNzQuOTZ6Ii8+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTkxLjk3
-MywyMS42MWwwLjEyNi0wLjE2M2MwLDAsMC4wMTktMC4wMTksMC4wMzctMC4wMzZjMCwwLDAuMDA4
-LTAuMDI4LDAuMDE4LTAuMDM2TDkxLjk3MywyMS42MXoiLz4NCgk8cGF0aCBjbGFzcz0ic3QwIiBk
-PSJNMzc2LjIzNyw1MDguOThsLTAuNjYsMC40MTdjLTAuMDE4LDAtMC4wMjcsMC4wMjctMC4wMzYs
-MC4wMjdMMzc2LjIzNyw1MDguOTh6Ii8+DQoJPHBvbHlnb24gY2xhc3M9InN0MCIgcG9pbnRzPSIy
-NjUuNTU3LDE2LjU2NCAyNjUuNjY1LDE2Ljc4MiAyNjUuNjg0LDE2Ljc5MSAJIi8+DQoJPHBhdGgg
-Y2xhc3M9InN0MCIgZD0iTTI1My45ODMsNC41NzVjMCwwLDAsMC0wLjAwOSwwbDAuMDI4LDAuMDE4
-TDI1My45ODMsNC41NzV6Ii8+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTQ0My4yNDYsMzkyLjIx
-NGMwLjEwOC0yLjAwNywwLjM2Mi0zLjg4OCwwLjM2Mi01Ljk5NWMwLjAwOS0xOC40MDgtMy45MTYt
-MzguMjU1LTEzLjI3NC01OC44MTYNCgkJYy0xNy45MTItMzkuODAyLTQ3LjkyMi02Mi4xOTktNzcu
-OTA0LTc2LjQ1N2wtMC4wOTktMC4wNTVsLTIuMjMzLTEuMDY2bDIuMDE3LDAuOTc3Yy0yOS44NjUt
-MTQuMjE0LTYwLjIyOC0yMS44NzItODIuNTc5LTMyLjY3Nw0KCQlsLTAuMDM2LTAuMDI4Yy0xNC4y
-NS02Ljk4OC0yMi4yNjEtMTYuMzI5LTI3LjU3OC0zMC4wNTVsLTAuMDE4LTAuMDQ1bC0wLjAzNi0w
-LjEwOWwtMC4xNTQtMC40MTZsLTAuMDYzLTAuMTcxDQoJCWMtMC44ODYtMi4yMTYtNC45MTktMTUu
-MDkxLTQuODAyLTI0LjI4N3YtMC4wNTR2LTAuMTA5Yy0wLjAwOC0yLjYxMywwLjI5OS00Ljk0NSww
-LjcxNS02LjQyOGwwLjAxOC0wLjA3Mg0KCQljMS4zNzUtNS40NTIsNi4xNjgtMTQuMTY5LDExLjkt
-MjQuMTk2bDAuMDE4LTAuMDI3YzUuNjc4LTEwLjE3MiwxMi4zMzQtMjIuMjQzLDE2LjExMy0zNi43
-NTUNCgkJYzQuNTM5LTE3LjU2OCw2Ljk1NC0zMy4yMzgsNi45NjItNDYuOTA4Yy0wLjA1NC0xMS42
-MDItMS42MDktMjIuMjg5LTYuODcyLTMxLjYybC0wLjAzNi0wLjA2Mw0KCQljLTIuNzEyLTQuNzEx
-LTYuNTQ2LTkuMDc4LTExLjY4Mi0xMi4xODhjLTUuMDU0LTMuMDc1LTEwLjc5Ni00LjUzLTE2LjU0
-Ni00LjU2NlYwLjAxOEwyMzcuMjIsMHYwLjAxOA0KCQljLTAuMDM2LDAtMC4xMjcsMC4wMDktMC4x
-NjMsMC4wMDlWMC4wMThjLTAuMDQ1LDAtMC4wODIsMC4wMDktMC4xMTgsMC4wMDljLTAuMjgsMC0w
-LjY1MSwwLjA2My0xLjI5MiwwLjE1NA0KCQljLTExLjY4MywwLjU1Mi0yMi41MzIsNS44MTQtMzMu
-NzYyLDEzLjgxNmwtMC4wNTQsMC4wMzZjLTEzLjkyNCwxMC4xNTQtMjQuMDUxLDIzLjQ1NC0zMS42
-MjgsMzcuMjUyDQoJCWMtMS42MDktMy43ODgtMy4xMi03LjY5NC01LjAxOC0xMS4xMTJsLTAuMDA5
-LTAuMDE4Yy01LjE4LTkuMjUtMTEuMjQ4LTE3LjEzNC0xOC40MjctMjMuMTgzaC0wLjAwOQ0KCQlj
-LTcuMDE2LTUuODk1LTE1Ljc5Ni0xMC4zODktMjUuOTIzLTEwLjU2VjYuMzY2bC0wLjY3LTAuMDE5
-Yy0xMS4zMSwwLjAwOS0yMS40MTEsNi4wOTQtMjguMDEsMTUuMDY0DQoJCWMtNi41NjQsOC43Ny0x
-MC42MzQsMTkuOTU2LTEzLjI0NywzMy44MzR2MC4wMjdjLTEuMTQsNi4xNzYtMS42MzcsMTIuMzUx
-LTEuNjM3LDE4LjR2MC4wNDZjMC4yMTgsMjkuODQ3LDExLjI4NCw1Ni45LDE5LjAwNiw3Mi41Nw0K
-CQljLTEwLjIwOSw3LjkyMS0yNC40ODYsMjAuNzg3LTM1Ljk4NywzOC42MTdsMC41NjEtMC44Njhs
-LTAuNTcsMC44NzhjLTE0LjY3NSwyMi44ODQtMjAuNTcsNDEuMjMtMjAuNTcsNTcuMjk3DQoJCWMt
-MC4wMTgsMTQuMzEzLDQuNzkyLDI1LjE5LDcuOTQ4LDMyLjU2OWM1LjA3MiwxMi4yNzksMTQuMDk2
-LDIwLjI3MiwyMy4xNzQsMjQuMzU5djAuMDE4YzYuNDQ3LDIuODg0LDEyLjE3OSw0LjUyMSwxNy4x
-MzQsNi4wNTgNCgkJbC0wLjM3LDIuNDk2bDEwLjQ3LDEuNDFjMC43NzgsMC4zNjIsMS4zNzUsMC42
-NDIsMS42MSwwLjc5NWwwLjAxOCwwLjAyOGMzLjQ3MiwyLjE2OSw2Ljc4MSw0Ljk0NSwxMC40NjEs
-MTAuMjgNCgkJYzMuNjQ0LDUuMzI2LDcuNTE0LDEzLjMxLDExLjEzLDI1LjQyNmwwLjAxOSwwLjA0
-NWMzLjY0MywxMi4yNywxMS4wNDksMzIuNDE1LDE3LjU5NSw1Mi45NzZ2MC4wMjcNCgkJYzMuMjM3
-LDEwLjA4Miw2LjIyMSwyMC4yOTksOC4zNTQsMjkuMjMyYzIuMTUyLDguODc5LDMuMzksMTYuNjcz
-LDMuMzQ2LDIwLjgxNXYwLjE5OXYwLjA1NGwtMC4wNzMsMS41NjUNCgkJYy0zLjU1MiwzLjgyNS02
-LjMyOSw4LjAyLTcuODY2LDEyLjI2Yy0xLjk1Myw1LjMzNS0yLjU3NywxMC41NTEtMi41ODYsMTUu
-MTQ0bDAuMDEsMC4yOTl2LTAuMDY0DQoJCWMwLjAyNyw2LjQ3NCwxLjE0LDEyLjA3MSwyLjIzMywx
-Ni4yMDNjMC41NjEsMi4wNjIsMS4xMjEsMy43NywxLjU1NSw1LjAwOWwwLjU1MiwxLjQ1NmgwLjAw
-OGwwLjEzNiwwLjQwNmwxLjgwOCw0LjM2OGwyLjY0OSw2LjM1Ng0KCQloNjQuMzZoNC45ODJoMTUz
-LjA3N2w0LjA4Ny0yLjU1OWwwLjA2My0wLjA0NGM2LjMxMi00LjAxNCwxNi40MzgtMTIuNDMzLDI3
-LjQxNS0yNC42MjFjNS43MzIsMi4zMjQsMTEuOTgsMy43NDMsMTguNjA3LDMuNzQzDQoJCWMyOC4w
-My0wLjAwOSw1MC42OTgtMjIuNzA0LDUwLjcwNy01MC42OThDNDcyLjI4OCw0MTcuNTMyLDQ2MC4z
-NTMsNDAwLjI0NCw0NDMuMjQ2LDM5Mi4yMTR6IE00MjEuNiw0NjUuMjcyDQoJCWMtNi44NTMsMC0x
-My4wMi0yLjYwNC0xNy45MzktNi44NjNsLTUuMjE2LTQuNTQ4bC00LjE3OCw1LjUwNmMtMTEuNDEs
-MTUuMS0yMy44MjYsMjUuNDA4LTI5LjYyMSwyOS4zNzdIMjI2LjE2Mg0KCQljMC4zNTMtMi4wNTMs
-MC45NC00LjM5NCwxLjk3MS02LjcwOWMyLjE0My00LjY5Myw1LjUyNC05LjA2OSwxMi43NzYtMTEu
-NzcybC00LjQxMi0xMi4xMzQNCgkJYy0xMC44MDUsMy44NjEtMTcuMTI2LDExLjU5Mi0yMC4xODIs
-MTguNjk5Yy0xLjk2Myw0LjQ2Ni0yLjc3Niw4LjU5LTMuMTQ3LDExLjkxN2gtNDguMjY1Yy0wLjc3
-OC0yLjgxMi0xLjYwOS02LjY0Ni0xLjU5MS0xMC41NzkNCgkJYzAuMDM2LTUuMjksMS4zMi05Ljgw
-MSw0Ljk3My0xMi45M2wwLjk4NS0wLjg1bC0wLjk2OCwwLjgzMmMyLjQ0Mi0yLjExNiwzLjc2Mi00
-Ljg1NSw0LjUxMi03LjU1OQ0KCQljMC43Ni0yLjczMSwxLjAyMi01LjU4OCwxLjAyMi04LjY2MmMt
-MC4wOTEtMTQuODEtNi4xMDMtMzYuMTY3LTEyLjgwMy01Ny4zNzljLTYuNzA5LTIxLjA1OS0xNC4y
-NS00MS42NjQtMTcuNDUxLTUyLjUyNA0KCQljLTUuMDA5LTE2Ljk3Mi0xMS4xNzUtMjguNTQ1LTE4
-LjEwMi0zNi44NzJjOC44NDMsMS4wMDQsMTQuNTEyLDEuNTM3LDE0LjU1OCwxLjUzN2wxLjE2Ny0x
-Mi44NjcNCgkJYy0wLjAwOSwwLTQuMzY3LTAuNDA2LTExLjU4My0xLjIwMmMtNi4zNDgtMC42OTYt
-MTQuOTM3LTEuNzQ1LTI0LjU0LTMuMDY2Yy01LjY3OC0yLjUyMy0xMS4xMjItMy45OTYtMTUuNzUx
-LTUuMzk4DQoJCWMtNC45MS0xLjQ2NS04Ljk1Mi0yLjkyOS0xMi4xMzQtNS4xYy0zLjE5Mi0yLjIw
-Ni01LjgwNi01LjAzNi04LjE1Ni0xMC40MTZjLTMuMjE4LTcuNTIzLTYuMDg1LTE0LjM1LTYuMDk0
-LTIzLjUNCgkJYzAtMTAuMTksMy42NTMtMjQuMDQxLDE2Ljg5OS00NC43NTZjOC4wNTYtMTIuNjA1
-LDE4LjUwOC0yMi44NCwyNi45MTctMjkuODIxYzQuMjE0LTMuNDk5LDcuOTAyLTYuMTg0LDEwLjUy
-NS03Ljk5Mg0KCQljMS4zMDItMC45MDUsMi4zMzItMS41NzQsMy4wMzgtMi4wMjZsMC43NzgtMC40
-ODhsMC4yMjYtMC4xMzZsNS42NTEtMy4zNjNsLTMuNDcyLTUuNTk3bC0wLjIxNi0wLjM2Mg0KCQlj
-LTIuNDQyLTMuODg4LTIyLjkxMi0zOS43NjYtMjIuNzg1LTczLjk5OGMwLTQuNzkyLDAuMzg4LTku
-NTQ4LDEuMjQ4LTE0LjE3N2MyLjE1Mi0xMS43LDUuNTE1LTE5LjYwMyw4Ljk1MS0yNC4xMDYNCgkJ
-YzMuNTQ0LTQuNTIsNi40NzQtNS43MDUsOS42MzgtNS43NzdjMy4wNDctMC4wMjcsNy4wNTIsMS40
-OTIsMTEuNDU2LDUuMTcyYzEzLjI5MiwxMC44OTYsMjcuMTA4LDQwLjA2NCwyOC4xNjUsNzYuMjUN
-CgkJYy0yLjM4NywxMS40NTYtMy4xMjksMTkuMTY4LTMuMTU2LDE5LjM0bDEyLjg1OCwxLjIzOWMw
-LDAsMC4wOTktMS4wMTMsMC4zNjEtMi45OTJjMC45MDUtNi45MzUsMy44MDctMjUuMDY1LDEwLjgy
-NC00NC4zNTkNCgkJYzYuOTcxLTE5LjMyMiwxOC4xMzgtMzkuNTk0LDM0LjU5NC01MS4zODRjOS42
-NzQtNy4wMjYsMTcuMjI1LTkuNjc1LDIxLjY5Mi05LjYwMmMyLjA4OSwwLDMuNTI2LDAuNDQyLDQu
-OCwxLjIwMg0KCQljMS44NTQsMS4xMjEsMy42OSwzLjMwMSw1LjExOCw3LjM1MmMxLjQxOSw0LjAw
-NSwyLjI3OSw5LjY2NSwyLjI2OSwxNi42MzdjMC4wMSwxMC44NjgtMi4wMjYsMjQuODgzLTYuMjIx
-LDQxLjA2Nw0KCQljLTIuODM5LDExLjAyMi04LjMsMjEuMzAzLTEzLjg4OCwzMS4yMDNjLTUuNTUx
-LDkuOTI4LTExLjI3NSwxOS40MDQtMTQuMDg3LDI5LjU0OGMtMS4xMjEsNC4xMzItMS41MjgsOC4z
-OTEtMS41MjgsMTIuNTY4DQoJCWMwLjA2MywxNi43MzcsNi4zNjYsMzIuNzc3LDYuNTY0LDMzLjM5
-MmgtMC4wMDljNi45MDgsMTguNTk5LDE5Ljk4MiwzMy42NjIsMzkuMzMyLDQyLjg1OA0KCQljMjUu
-NjQzLDEyLjE5OCw1NS42NzksMTkuNzExLDgyLjg4NiwzMi44MTJjMjcuMjE2LDEzLjE0Nyw1MS4z
-OTQsMzEuMjk0LDY2Ljc4Myw2NS4xMDFjOC4wNDcsMTcuNzQsMTEuMTg0LDM0LjExNSwxMS4xOTQs
-NDkuMjA1DQoJCWMwLDUuODc4LTAuNDg5LDExLjU1Ni0xLjM1NiwxNy4wNTNsLTEuMDY2LDYuNjcz
-bDYuNzI2LDAuNzZjMTMuNzM0LDEuNTM3LDI0LjQxMywxMy4wMjksMjQuNDA0LDI3LjExNg0KCQlD
-NDQ5LjAzMyw0NTIuOTY2LDQzNi43NzIsNDY1LjI0NSw0MjEuNiw0NjUuMjcyeiIvPg0KCTxwb2x5
-Z29uIGNsYXNzPSJzdDAiIHBvaW50cz0iNDMwLjMzNSwzMjcuNDAzIDQzMC4zMzUsMzI3LjQwMyA0
-MzAuMzQ0LDMyNy40MjEgCSIvPg0KPC9nPg0KPC9zdmc+
-"
+     xlink:href="data:image/svg+xml;base64,PD94bWwgdmVyc2lvbj0iMS4wIiBlbmNvZGluZz0idXRmLTgiPz4NCg0KPCFET0NUWVBFIHN2ZyBQ VUJMSUMgIi0vL1czQy8vRFREIFNWRyAxLjEvL0VOIiAiaHR0cDovL3d3dy53My5vcmcvR3JhcGhp Y3MvU1ZHLzEuMS9EVEQvc3ZnMTEuZHRkIj4NCjwhLS0gVXBsb2FkZWQgdG86IFNWRyBSZXBvLCB3 d3cuc3ZncmVwby5jb20sIEdlbmVyYXRvcjogU1ZHIFJlcG8gTWl4ZXIgVG9vbHMgLS0+DQo8c3Zn IGhlaWdodD0iODAwcHgiIHdpZHRoPSI4MDBweCIgdmVyc2lvbj0iMS4xIiBpZD0iX3gzMl8iIHht bG5zPSJodHRwOi8vd3d3LnczLm9yZy8yMDAwL3N2ZyIgeG1sbnM6eGxpbms9Imh0dHA6Ly93d3cu dzMub3JnLzE5OTkveGxpbmsiIA0KCSB2aWV3Qm94PSIwIDAgNTEyIDUxMiIgIHhtbDpzcGFjZT0i cHJlc2VydmUiPg0KPHN0eWxlIHR5cGU9InRleHQvY3NzIj4NCgkuc3Qwe2ZpbGw6IzAwMDAwMDt9 DQo8L3N0eWxlPg0KPGc+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTE0Ni4yNzgsMTk4LjgyYy03 LjU4NiwwLTEzLjcyNSw2LjE0LTEzLjcyNSwxMy43MjVjMCw3LjU4Nyw2LjE0LDEzLjcyNiwxMy43 MjUsMTMuNzI2DQoJCWM3LjU3OCwwLDEzLjcyNS02LjEzOSwxMy43MjUtMTMuNzI2QzE2MC4wMDMs MjA0Ljk1OSwxNTMuODU1LDE5OC44MiwxNDYuMjc4LDE5OC44MnoiLz4NCgk8cGF0aCBjbGFzcz0i c3QwIiBkPSJNMTk3LjE0NywxMTkuNjg2YzAuODg2LDE4LjAzLDMzLjkwNy0zNy4xMzQsMzIuMjk3 LTYxLjM2NkMyMjcuODE3LDM0LjEwNiwxOTUuNTIsODcuMzg5LDE5Ny4xNDcsMTE5LjY4NnoiLz4N Cgk8cGF0aCBjbGFzcz0ic3QwIiBkPSJNNDcuNzA0LDI3NC45NmwtMC4wMzYtMC4xMDhjLTAuMDA5 LTAuMDE4LTAuMDE4LTAuMDYzLTAuMDI3LTAuMDcyYzAtMC4wMTgtMC4wMDktMC4wMTgtMC4wMDkt MC4wMTgNCgkJTDQ3LjcwNCwyNzQuOTZ6Ii8+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTkxLjk3 MywyMS42MWwwLjEyNi0wLjE2M2MwLDAsMC4wMTktMC4wMTksMC4wMzctMC4wMzZjMCwwLDAuMDA4 LTAuMDI4LDAuMDE4LTAuMDM2TDkxLjk3MywyMS42MXoiLz4NCgk8cGF0aCBjbGFzcz0ic3QwIiBk PSJNMzc2LjIzNyw1MDguOThsLTAuNjYsMC40MTdjLTAuMDE4LDAtMC4wMjcsMC4wMjctMC4wMzYs MC4wMjdMMzc2LjIzNyw1MDguOTh6Ii8+DQoJPHBvbHlnb24gY2xhc3M9InN0MCIgcG9pbnRzPSIy NjUuNTU3LDE2LjU2NCAyNjUuNjY1LDE2Ljc4MiAyNjUuNjg0LDE2Ljc5MSAJIi8+DQoJPHBhdGgg Y2xhc3M9InN0MCIgZD0iTTI1My45ODMsNC41NzVjMCwwLDAsMC0wLjAwOSwwbDAuMDI4LDAuMDE4 TDI1My45ODMsNC41NzV6Ii8+DQoJPHBhdGggY2xhc3M9InN0MCIgZD0iTTQ0My4yNDYsMzkyLjIx NGMwLjEwOC0yLjAwNywwLjM2Mi0zLjg4OCwwLjM2Mi01Ljk5NWMwLjAwOS0xOC40MDgtMy45MTYt MzguMjU1LTEzLjI3NC01OC44MTYNCgkJYy0xNy45MTItMzkuODAyLTQ3LjkyMi02Mi4xOTktNzcu OTA0LTc2LjQ1N2wtMC4wOTktMC4wNTVsLTIuMjMzLTEuMDY2bDIuMDE3LDAuOTc3Yy0yOS44NjUt MTQuMjE0LTYwLjIyOC0yMS44NzItODIuNTc5LTMyLjY3Nw0KCQlsLTAuMDM2LTAuMDI4Yy0xNC4y NS02Ljk4OC0yMi4yNjEtMTYuMzI5LTI3LjU3OC0zMC4wNTVsLTAuMDE4LTAuMDQ1bC0wLjAzNi0w LjEwOWwtMC4xNTQtMC40MTZsLTAuMDYzLTAuMTcxDQoJCWMtMC44ODYtMi4yMTYtNC45MTktMTUu MDkxLTQuODAyLTI0LjI4N3YtMC4wNTR2LTAuMTA5Yy0wLjAwOC0yLjYxMywwLjI5OS00Ljk0NSww LjcxNS02LjQyOGwwLjAxOC0wLjA3Mg0KCQljMS4zNzUtNS40NTIsNi4xNjgtMTQuMTY5LDExLjkt MjQuMTk2bDAuMDE4LTAuMDI3YzUuNjc4LTEwLjE3MiwxMi4zMzQtMjIuMjQzLDE2LjExMy0zNi43 NTUNCgkJYzQuNTM5LTE3LjU2OCw2Ljk1NC0zMy4yMzgsNi45NjItNDYuOTA4Yy0wLjA1NC0xMS42 MDItMS42MDktMjIuMjg5LTYuODcyLTMxLjYybC0wLjAzNi0wLjA2Mw0KCQljLTIuNzEyLTQuNzEx LTYuNTQ2LTkuMDc4LTExLjY4Mi0xMi4xODhjLTUuMDU0LTMuMDc1LTEwLjc5Ni00LjUzLTE2LjU0 Ni00LjU2NlYwLjAxOEwyMzcuMjIsMHYwLjAxOA0KCQljLTAuMDM2LDAtMC4xMjcsMC4wMDktMC4x NjMsMC4wMDlWMC4wMThjLTAuMDQ1LDAtMC4wODIsMC4wMDktMC4xMTgsMC4wMDljLTAuMjgsMC0w LjY1MSwwLjA2My0xLjI5MiwwLjE1NA0KCQljLTExLjY4MywwLjU1Mi0yMi41MzIsNS44MTQtMzMu NzYyLDEzLjgxNmwtMC4wNTQsMC4wMzZjLTEzLjkyNCwxMC4xNTQtMjQuMDUxLDIzLjQ1NC0zMS42 MjgsMzcuMjUyDQoJCWMtMS42MDktMy43ODgtMy4xMi03LjY5NC01LjAxOC0xMS4xMTJsLTAuMDA5 LTAuMDE4Yy01LjE4LTkuMjUtMTEuMjQ4LTE3LjEzNC0xOC40MjctMjMuMTgzaC0wLjAwOQ0KCQlj LTcuMDE2LTUuODk1LTE1Ljc5Ni0xMC4zODktMjUuOTIzLTEwLjU2VjYuMzY2bC0wLjY3LTAuMDE5 Yy0xMS4zMSwwLjAwOS0yMS40MTEsNi4wOTQtMjguMDEsMTUuMDY0DQoJCWMtNi41NjQsOC43Ny0x MC42MzQsMTkuOTU2LTEzLjI0NywzMy44MzR2MC4wMjdjLTEuMTQsNi4xNzYtMS42MzcsMTIuMzUx LTEuNjM3LDE4LjR2MC4wNDZjMC4yMTgsMjkuODQ3LDExLjI4NCw1Ni45LDE5LjAwNiw3Mi41Nw0K CQljLTEwLjIwOSw3LjkyMS0yNC40ODYsMjAuNzg3LTM1Ljk4NywzOC42MTdsMC41NjEtMC44Njhs LTAuNTcsMC44NzhjLTE0LjY3NSwyMi44ODQtMjAuNTcsNDEuMjMtMjAuNTcsNTcuMjk3DQoJCWMt MC4wMTgsMTQuMzEzLDQuNzkyLDI1LjE5LDcuOTQ4LDMyLjU2OWM1LjA3MiwxMi4yNzksMTQuMDk2 LDIwLjI3MiwyMy4xNzQsMjQuMzU5djAuMDE4YzYuNDQ3LDIuODg0LDEyLjE3OSw0LjUyMSwxNy4x MzQsNi4wNTgNCgkJbC0wLjM3LDIuNDk2bDEwLjQ3LDEuNDFjMC43NzgsMC4zNjIsMS4zNzUsMC42 NDIsMS42MSwwLjc5NWwwLjAxOCwwLjAyOGMzLjQ3MiwyLjE2OSw2Ljc4MSw0Ljk0NSwxMC40NjEs MTAuMjgNCgkJYzMuNjQ0LDUuMzI2LDcuNTE0LDEzLjMxLDExLjEzLDI1LjQyNmwwLjAxOSwwLjA0 NWMzLjY0MywxMi4yNywxMS4wNDksMzIuNDE1LDE3LjU5NSw1Mi45NzZ2MC4wMjcNCgkJYzMuMjM3 LDEwLjA4Miw2LjIyMSwyMC4yOTksOC4zNTQsMjkuMjMyYzIuMTUyLDguODc5LDMuMzksMTYuNjcz LDMuMzQ2LDIwLjgxNXYwLjE5OXYwLjA1NGwtMC4wNzMsMS41NjUNCgkJYy0zLjU1MiwzLjgyNS02 LjMyOSw4LjAyLTcuODY2LDEyLjI2Yy0xLjk1Myw1LjMzNS0yLjU3NywxMC41NTEtMi41ODYsMTUu MTQ0bDAuMDEsMC4yOTl2LTAuMDY0DQoJCWMwLjAyNyw2LjQ3NCwxLjE0LDEyLjA3MSwyLjIzMywx Ni4yMDNjMC41NjEsMi4wNjIsMS4xMjEsMy43NywxLjU1NSw1LjAwOWwwLjU1MiwxLjQ1NmgwLjAw OGwwLjEzNiwwLjQwNmwxLjgwOCw0LjM2OGwyLjY0OSw2LjM1Ng0KCQloNjQuMzZoNC45ODJoMTUz LjA3N2w0LjA4Ny0yLjU1OWwwLjA2My0wLjA0NGM2LjMxMi00LjAxNCwxNi40MzgtMTIuNDMzLDI3 LjQxNS0yNC42MjFjNS43MzIsMi4zMjQsMTEuOTgsMy43NDMsMTguNjA3LDMuNzQzDQoJCWMyOC4w My0wLjAwOSw1MC42OTgtMjIuNzA0LDUwLjcwNy01MC42OThDNDcyLjI4OCw0MTcuNTMyLDQ2MC4z NTMsNDAwLjI0NCw0NDMuMjQ2LDM5Mi4yMTR6IE00MjEuNiw0NjUuMjcyDQoJCWMtNi44NTMsMC0x My4wMi0yLjYwNC0xNy45MzktNi44NjNsLTUuMjE2LTQuNTQ4bC00LjE3OCw1LjUwNmMtMTEuNDEs MTUuMS0yMy44MjYsMjUuNDA4LTI5LjYyMSwyOS4zNzdIMjI2LjE2Mg0KCQljMC4zNTMtMi4wNTMs MC45NC00LjM5NCwxLjk3MS02LjcwOWMyLjE0My00LjY5Myw1LjUyNC05LjA2OSwxMi43NzYtMTEu NzcybC00LjQxMi0xMi4xMzQNCgkJYy0xMC44MDUsMy44NjEtMTcuMTI2LDExLjU5Mi0yMC4xODIs MTguNjk5Yy0xLjk2Myw0LjQ2Ni0yLjc3Niw4LjU5LTMuMTQ3LDExLjkxN2gtNDguMjY1Yy0wLjc3 OC0yLjgxMi0xLjYwOS02LjY0Ni0xLjU5MS0xMC41NzkNCgkJYzAuMDM2LTUuMjksMS4zMi05Ljgw MSw0Ljk3My0xMi45M2wwLjk4NS0wLjg1bC0wLjk2OCwwLjgzMmMyLjQ0Mi0yLjExNiwzLjc2Mi00 Ljg1NSw0LjUxMi03LjU1OQ0KCQljMC43Ni0yLjczMSwxLjAyMi01LjU4OCwxLjAyMi04LjY2MmMt MC4wOTEtMTQuODEtNi4xMDMtMzYuMTY3LTEyLjgwMy01Ny4zNzljLTYuNzA5LTIxLjA1OS0xNC4y NS00MS42NjQtMTcuNDUxLTUyLjUyNA0KCQljLTUuMDA5LTE2Ljk3Mi0xMS4xNzUtMjguNTQ1LTE4 LjEwMi0zNi44NzJjOC44NDMsMS4wMDQsMTQuNTEyLDEuNTM3LDE0LjU1OCwxLjUzN2wxLjE2Ny0x Mi44NjcNCgkJYy0wLjAwOSwwLTQuMzY3LTAuNDA2LTExLjU4My0xLjIwMmMtNi4zNDgtMC42OTYt MTQuOTM3LTEuNzQ1LTI0LjU0LTMuMDY2Yy01LjY3OC0yLjUyMy0xMS4xMjItMy45OTYtMTUuNzUx LTUuMzk4DQoJCWMtNC45MS0xLjQ2NS04Ljk1Mi0yLjkyOS0xMi4xMzQtNS4xYy0zLjE5Mi0yLjIw Ni01LjgwNi01LjAzNi04LjE1Ni0xMC40MTZjLTMuMjE4LTcuNTIzLTYuMDg1LTE0LjM1LTYuMDk0 LTIzLjUNCgkJYzAtMTAuMTksMy42NTMtMjQuMDQxLDE2Ljg5OS00NC43NTZjOC4wNTYtMTIuNjA1 LDE4LjUwOC0yMi44NCwyNi45MTctMjkuODIxYzQuMjE0LTMuNDk5LDcuOTAyLTYuMTg0LDEwLjUy NS03Ljk5Mg0KCQljMS4zMDItMC45MDUsMi4zMzItMS41NzQsMy4wMzgtMi4wMjZsMC43NzgtMC40 ODhsMC4yMjYtMC4xMzZsNS42NTEtMy4zNjNsLTMuNDcyLTUuNTk3bC0wLjIxNi0wLjM2Mg0KCQlj LTIuNDQyLTMuODg4LTIyLjkxMi0zOS43NjYtMjIuNzg1LTczLjk5OGMwLTQuNzkyLDAuMzg4LTku NTQ4LDEuMjQ4LTE0LjE3N2MyLjE1Mi0xMS43LDUuNTE1LTE5LjYwMyw4Ljk1MS0yNC4xMDYNCgkJ YzMuNTQ0LTQuNTIsNi40NzQtNS43MDUsOS42MzgtNS43NzdjMy4wNDctMC4wMjcsNy4wNTIsMS40 OTIsMTEuNDU2LDUuMTcyYzEzLjI5MiwxMC44OTYsMjcuMTA4LDQwLjA2NCwyOC4xNjUsNzYuMjUN CgkJYy0yLjM4NywxMS40NTYtMy4xMjksMTkuMTY4LTMuMTU2LDE5LjM0bDEyLjg1OCwxLjIzOWMw LDAsMC4wOTktMS4wMTMsMC4zNjEtMi45OTJjMC45MDUtNi45MzUsMy44MDctMjUuMDY1LDEwLjgy NC00NC4zNTkNCgkJYzYuOTcxLTE5LjMyMiwxOC4xMzgtMzkuNTk0LDM0LjU5NC01MS4zODRjOS42 NzQtNy4wMjYsMTcuMjI1LTkuNjc1LDIxLjY5Mi05LjYwMmMyLjA4OSwwLDMuNTI2LDAuNDQyLDQu OCwxLjIwMg0KCQljMS44NTQsMS4xMjEsMy42OSwzLjMwMSw1LjExOCw3LjM1MmMxLjQxOSw0LjAw NSwyLjI3OSw5LjY2NSwyLjI2OSwxNi42MzdjMC4wMSwxMC44NjgtMi4wMjYsMjQuODgzLTYuMjIx LDQxLjA2Nw0KCQljLTIuODM5LDExLjAyMi04LjMsMjEuMzAzLTEzLjg4OCwzMS4yMDNjLTUuNTUx LDkuOTI4LTExLjI3NSwxOS40MDQtMTQuMDg3LDI5LjU0OGMtMS4xMjEsNC4xMzItMS41MjgsOC4z OTEtMS41MjgsMTIuNTY4DQoJCWMwLjA2MywxNi43MzcsNi4zNjYsMzIuNzc3LDYuNTY0LDMzLjM5 MmgtMC4wMDljNi45MDgsMTguNTk5LDE5Ljk4MiwzMy42NjIsMzkuMzMyLDQyLjg1OA0KCQljMjUu NjQzLDEyLjE5OCw1NS42NzksMTkuNzExLDgyLjg4NiwzMi44MTJjMjcuMjE2LDEzLjE0Nyw1MS4z OTQsMzEuMjk0LDY2Ljc4Myw2NS4xMDFjOC4wNDcsMTcuNzQsMTEuMTg0LDM0LjExNSwxMS4xOTQs NDkuMjA1DQoJCWMwLDUuODc4LTAuNDg5LDExLjU1Ni0xLjM1NiwxNy4wNTNsLTEuMDY2LDYuNjcz bDYuNzI2LDAuNzZjMTMuNzM0LDEuNTM3LDI0LjQxMywxMy4wMjksMjQuNDA0LDI3LjExNg0KCQlD NDQ5LjAzMyw0NTIuOTY2LDQzNi43NzIsNDY1LjI0NSw0MjEuNiw0NjUuMjcyeiIvPg0KCTxwb2x5 Z29uIGNsYXNzPSJzdDAiIHBvaW50cz0iNDMwLjMzNSwzMjcuNDAzIDQzMC4zMzUsMzI3LjQwMyA0 MzAuMzQ0LDMyNy40MjEgCSIvPg0KPC9nPg0KPC9zdmc+ "
      id="image47521"
      x="3874.6807"
-     y="2492.4514" /></svg>
+     y="2492.4514" /><text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:1.33333px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="5671.998"
+     y="8568.1777"
+     id="text38735"><tspan
+       sodipodi:role="line"
+       id="tspan38733"
+       x="5671.998"
+       y="8568.1777"
+       style="font-size:1.33333px"> (numbers from ALBERT model, with &quot;&lt;mask&gt; today&quot; at the end)</tspan></text><image
+     preserveAspectRatio="none"
+     inkscape:svg-dpi="96"
+     width="49.53804"
+     height="49.53804"
+     xlink:href="data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyMDAg
+MjAwIiB3aWR0aD0iMTAwJSIgaGVpZ2h0PSIxMDAlIj4KICA8IS0tIFJhYmJpdCBFYXJzIC0tPgog
+IDwhLS0gTGVmdCBFYXIgLS0+CiAgPHBhdGggZD0iTSA4MiA5NSBDIDY4IDU1LCA3MiAyNSwgODMg
+MjAgQyA5MiAyNSwgOTAgNTUsIDg2IDk1IiAKICAgICAgICBmaWxsPSJub25lIiAKICAgICAgICBz
+dHJva2U9ImJsYWNrIiAKICAgICAgICBzdHJva2Utd2lkdGg9IjUiIAogICAgICAgIHN0cm9rZS1s
+aW5lY2FwPSJyb3VuZCIgCiAgICAgICAgc3Ryb2tlLWxpbmVqb2luPSJyb3VuZCIgLz4KICA8cGF0
+aCBkPSJNIDgxIDc1IEMgNzcgNTUsIDc4IDM1LCA4MyAzMCIgCiAgICAgICAgZmlsbD0ibm9uZSIg
+CiAgICAgICAgc3Ryb2tlPSJibGFjayIgCiAgICAgICAgc3Ryb2tlLXdpZHRoPSIzIiAKICAgICAg
+ICBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+CgogIDwhLS0gUmlnaHQgRWFyIC0tPgogIDxwYXRo
+IGQ9Ik0gMTE0IDk1IEMgMTEwIDU1LCAxMDggMjUsIDExNyAyMCBDIDEyOCAyNSwgMTMyIDU1LCAx
+MTggOTUiIAogICAgICAgIGZpbGw9Im5vbmUiIAogICAgICAgIHN0cm9rZT0iYmxhY2siIAogICAg
+ICAgIHN0cm9rZS13aWR0aD0iNSIgCiAgICAgICAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAKICAg
+ICAgICBzdHJva2UtbGluZWpvaW49InJvdW5kIiAvPgogIDxwYXRoIGQ9Ik0gMTE5IDc1IEMgMTIz
+IDU1LCAxMjIgMzUsIDExNyAzMCIgCiAgICAgICAgZmlsbD0ibm9uZSIgCiAgICAgICAgc3Ryb2tl
+PSJibGFjayIgCiAgICAgICAgc3Ryb2tlLXdpZHRoPSIzIiAKICAgICAgICBzdHJva2UtbGluZWNh
+cD0icm91bmQiIC8+CgogIDwhLS0gUmFiYml0IEhlYWQgUGVlayAtLT4KICA8cGF0aCBkPSJNIDc4
+IDEwMCBDIDc4IDc4LCAxMjIgNzgsIDEyMiAxMDAiIAogICAgICAgIGZpbGw9Im5vbmUiIAogICAg
+ICAgIHN0cm9rZT0iYmxhY2siIAogICAgICAgIHN0cm9rZS13aWR0aD0iNSIgCiAgICAgICAgc3Ry
+b2tlLWxpbmVjYXA9InJvdW5kIiAvPgoKICA8IS0tIFRvcCBIYXQgQm9keSAtLT4KICA8cGF0aCBk
+PSJNIDY0IDEwMCBMIDcyIDE2NSBDIDcyIDE2OCwgMTI4IDE2OCwgMTI4IDE2NSBMIDEzNiAxMDAi
+IAogICAgICAgIGZpbGw9Im5vbmUiIAogICAgICAgIHN0cm9rZT0iYmxhY2siIAogICAgICAgIHN0
+cm9rZS13aWR0aD0iNSIgCiAgICAgICAgc3Ryb2tlLWxpbmVjYXA9InJvdW5kIiAKICAgICAgICBz
+dHJva2UtbGluZWpvaW49InJvdW5kIiAvPgoKICA8IS0tIEhhdCBSaWJib24gLyBCYW5kIEFjY2Vu
+dCAtLT4KICA8cGF0aCBkPSJNIDcwIDE0OCBDIDg1IDE1MiwgMTE1IDE1MiwgMTMwIDE0OCIgCiAg
+ICAgICAgZmlsbD0ibm9uZSIgCiAgICAgICAgc3Ryb2tlPSJibGFjayIgCiAgICAgICAgc3Ryb2tl
+LXdpZHRoPSIzIiAKICAgICAgICBzdHJva2UtbGluZWNhcD0icm91bmQiIC8+CgogIDwhLS0gSGF0
+IEJyaW0gLS0+CiAgPGVsbGlwc2UgY3g9IjEwMCIgY3k9IjEwMCIgcng9IjY1IiByeT0iMTIiIAog
+ICAgICAgICAgIGZpbGw9Im5vbmUiIAogICAgICAgICAgIHN0cm9rZT0iYmxhY2siIAogICAgICAg
+ICAgIHN0cm9rZS13aWR0aD0iNSIgLz4KCiAgPCEtLSBNYWdpYyBTcGFya2xlcyAtLT4KICA8cGF0
+aCBkPSJNIDE0OCA0NSBMIDE0OCA1NSBNIDE0MyA1MCBMIDE1MyA1MCIgCiAgICAgICAgc3Ryb2tl
+PSJibGFjayIgCiAgICAgICAgc3Ryb2tlLXdpZHRoPSIzIiAKICAgICAgICBzdHJva2UtbGluZWNh
+cD0icm91bmQiIC8+CiAgPHBhdGggZD0iTSA1MiA2NSBMIDUyIDcxIE0gNDkgNjggTCA1NSA2OCIg
+CiAgICAgICAgc3Ryb2tlPSJibGFjayIgCiAgICAgICAgc3Ryb2tlLXdpZHRoPSIyLjUiIAogICAg
+ICAgIHN0cm9rZS1saW5lY2FwPSJyb3VuZCIgLz4KPC9zdmc+Cg==
+"
+     id="image490818"
+     x="6859.936"
+     y="7639.1782" /><text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:6.66667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="2619.26"
+     y="5741.9863"
+     id="text535506"><tspan
+       sodipodi:role="line"
+       x="2619.26"
+       y="5741.9863"
+       style="font-size:6.66667px"
+       id="tspan546276" /></text><text
+     xml:space="preserve"
+     style="font-style:normal;font-weight:normal;font-size:6.66667px;line-height:1.25;font-family:sans-serif;fill:#000000;fill-opacity:1;stroke:none"
+     x="2438.3152"
+     y="5923.3589"
+     id="text550440"><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="5923.3589"
+       style="font-size:6.66667px"
+       id="tspan567834">&quot;If you want to have little time, do nothing&quot; ~ Anton Chekhov</tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="5931.6924"
+       style="font-size:6.66667px"
+       id="tspan604269" /><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="5940.0254"
+       style="font-size:6.66667px"
+       id="tspan574346">&quot;I owe my success to the fact that I never had a clock in my workroom&quot; ~  Thomas Edison</tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="5948.3589"
+       style="font-size:6.66667px"
+       id="tspan604271" /><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="5956.6924"
+       style="font-size:6.66667px"
+       id="tspan577384">&quot;Imagination is more important than knowledge. For knowledge is limited, whereas imagination embraces the entire world&quot; ~ Albert Einstein</tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="5965.0254"
+       style="font-size:6.66667px"
+       id="tspan604273" /><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="5973.3589"
+       style="font-size:6.66667px"
+       id="tspan591787">&quot;&quot;I was sorry to have my name mentioned as one of the great authors, because they have a sad habit of dying off.</tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="5981.6924"
+       style="font-size:6.66667px"
+       id="tspan597663"> Chaucer is dead, Spenser is dead, so is Milton, so is Shakespeare, and I'm not feeling so well myself&quot; ~ Mark Twain</tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="5990.0254"
+       style="font-size:6.66667px"
+       id="tspan606273" /><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="5998.3589"
+       style="font-size:6.66667px"
+       id="tspan606275">&quot;Good friends, good books, and a sleepy conscience: this is the ideal life&quot; ~ Mark Twain</tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6006.6924"
+       style="font-size:6.66667px"
+       id="tspan632393" /><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6015.0254"
+       style="font-size:6.66667px"
+       id="tspan616899">&quot;And no soul can ever die except by Allah’s leave and at a term appointed&quot; ~ Quran 3:145 from Surah Ali 'Imran</tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6023.3589"
+       style="font-size:6.66667px"
+       id="tspan632395" /><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6031.6924"
+       style="font-size:6.66667px"
+       id="tspan632397">&quot;They speak about the history of mankind, but what they mean, and what they have learned about in school, is the history of political power.</tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6040.0254"
+       style="font-size:6.66667px"
+       id="tspan649669"> There is no history of mankind, there is only an indefinite number of histories of all kinds of aspects of human life. </tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6048.3589"
+       style="font-size:6.66667px"
+       id="tspan654309">And one of these is the history of political power. This is elevated into the history of the world. But this, I hold, </tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6056.6924"
+       style="font-size:6.66667px"
+       id="tspan660737">is an offence against every decent conception of mankind. </tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6065.0254"
+       style="font-size:6.66667px"
+       id="tspan670859">It is hardly better than to treat the history of embezzlement or of robbery or of poisoning as the history of mankind. </tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6073.3589"
+       style="font-size:6.66667px"
+       id="tspan674665">For the history of power politics is nothing but the history of international crime and mass murder&quot; ~ Karl Popper</tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6081.6924"
+       style="font-size:6.66667px"
+       id="tspan683493" /><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6090.0254"
+       style="font-size:6.66667px"
+       id="tspan683693">&quot;From Stalin I deserve nothing but gratitude for my faithful service; </tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6098.3589"
+       style="font-size:6.66667px"
+       id="tspan690585">from God I deserve the most severe punishment for having violated His commandments thousands of times.</tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6106.6924"
+       style="font-size:6.66667px"
+       id="tspan693425"> Now see where I am, and judge for yourself: is there a God or not?&quot; ~ Genrikh Yagoda (head of the secret police) last words prior to execution</tspan><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6115.0259"
+       style="font-size:6.66667px"
+       id="tspan631195" /><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6123.3589"
+       style="font-size:6.66667px"
+       id="tspan632391" /><tspan
+       sodipodi:role="line"
+       x="2438.3152"
+       y="6131.6924"
+       style="font-size:6.66667px"
+       id="tspan600959" /></text></svg>
