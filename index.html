@@ -4,232 +4,307 @@
 <title>Corner</title>
 
 <style>
-html,body,#v{margin:0;width:100%;height:100%;overflow:hidden}
-#v{background:#111;touch-action:none}
-#s{
- position:absolute;width:10000px;height:10000px;
- transform-origin:0 0;user-select:none;pointer-events:none
-}
-#u{
- position:fixed;z-index:10;right:10px;bottom:10px;
- display:flex;gap:5px;transition:opacity .15s
-}
-button{
- width:42px;height:42px;border:0;border-radius:8px;
- background:#fffc;font:22px sans-serif;cursor:pointer
-}
-#i{
- position:fixed;z-index:20;inset:0;display:grid;place-items:center;
- background:#0008;padding:20px
-}
-#i>div{
- max-width:360px;padding:22px;border-radius:14px;
- background:#222;color:#eee;font:14px/1.45 system-ui,sans-serif;
- box-shadow:0 10px 40px #0008
-}
-#i h2{margin:0 0 4px;font-size:20px}
-#i p{margin:8px 0}
-#i small{color:#aaa}
-#i kbd{
- padding:1px 5px;border-radius:4px;background:#444;
- font:12px monospace
-}
-#i button{
- float:right;width:32px;height:32px;
- margin:-5px -5px 5px 10px
-}
-#i a{color:#8cf}
-.hide{opacity:0!important;pointer-events:none}
-.mozwarn{display:none}
-@-moz-document url-prefix(){
- .mozwarn{display:block;color:#f66}
-}
+    html,
+    body,
+    #v {
+        margin: 0;
+        width: 100%;
+        height: 100%;
+        overflow: hidden
+    }
+
+    #v {
+        background: #111;
+        touch-action: none
+    }
+
+    #s {
+        position: absolute;
+        width: 10000px;
+        height: 10000px;
+        transform-origin: 0 0;
+        user-select: none;
+        pointer-events: none
+    }
+
+    #u {
+        position: fixed;
+        z-index: 10;
+        right: 10px;
+        bottom: 10px;
+        display: flex;
+        gap: 5px;
+        transition: opacity .15s
+    }
+
+    button {
+        width: 42px;
+        height: 42px;
+        border: 0;
+        border-radius: 8px;
+        background: #fffc;
+        font: 22px sans-serif;
+        cursor: pointer
+    }
+
+    #i {
+        position: fixed;
+        z-index: 20;
+        inset: 0;
+        display: grid;
+        place-items: center;
+        background: #0008;
+        padding: 20px
+    }
+
+    #i>div {
+        max-width: 360px;
+        padding: 22px;
+        border-radius: 14px;
+        background: #222;
+        color: #eee;
+        font: 14px/1.45 system-ui, sans-serif;
+        box-shadow: 0 10px 40px #0008
+    }
+
+    #i h2 {
+        margin: 0 0 4px;
+        font-size: 20px
+    }
+
+    #i p {
+        margin: 8px 0
+    }
+
+    #i small {
+        color: #aaa
+    }
+
+    #i kbd {
+        padding: 1px 5px;
+        border-radius: 4px;
+        background: #444;
+        font: 12px monospace
+    }
+
+    #i button {
+        float: right;
+        width: 32px;
+        height: 32px;
+        margin: -5px -5px 5px 10px
+    }
+
+    #i a {
+        color: #8cf
+    }
+
+    .hide {
+        opacity: 0 !important;
+        pointer-events: none
+    }
+
+    .mozwarn {
+        display: none
+    }
+
+    @-moz-document url-prefix() {
+        .mozwarn {
+            display: block;
+            color: #f66;
+            font-size: 20pt;
+        }
+    }
 </style>
 
 <div id="v">
- <img id="s" src="./corner.svg" draggable="false">
+    <img id="s" src="./corner.svg" draggable="false">
 </div>
 
 <div id="u">
- <button id="p">+</button>
- <button id="m">-</button>
- <button id="r">0</button>
- <button id="info">i</button>
+    <button id="p">+</button>
+    <button id="m">-</button>
+    <button id="r">0</button>
+    <button id="info">i</button>
 </div>
 
 <div id="i">
- <div>
-  <button id="close" type="button">×</button>
+    <div>
+        <button id="close" type="button">×</button>
 
-  <h2>Corner</h2>
-  <small>by matan-h</small>
+        <h2>Corner</h2>
+        <small>by matan-h</small>
 
-  <p>Zoom into random corners of the image and discover :).</p>
+        <p>Zoom into random corners of the image and discover :).</p>
 
-  <p>
-   <kbd>H</kbd> UI &nbsp;
-   <kbd>I</kbd> info &nbsp;
-   <kbd>+</kbd>/<kbd>-</kbd> zoom &nbsp;
-   <kbd>0</kbd> reset
-  </p>
+        <p>
+            <kbd>H</kbd> UI &nbsp;
+            <kbd>I</kbd> info &nbsp;
+            <kbd>+</kbd>/<kbd>-</kbd> zoom &nbsp;
+            <kbd>0</kbd> reset
+        </p>
 
-  <p><small>
-   Mouse: wheel to pan, Ctrl+wheel to zoom, middle-drag to pan.<br>
-   Touch: drag to pan, pinch to zoom.
-  </small></p>
+        <p><small>
+                Mouse: wheel to pan, Ctrl+wheel to zoom, middle-drag to pan.<br>
+                Touch: drag to pan, pinch to zoom.
+            </small></p>
 
-  <p><small>
-   This wrapper site is an AI-generated simple SVG viewer, because Chrome
-   limits you to 25% zoom. If you have a good image viewer, you can
-   download the SVG art from
-   <a href="./corner.svg" download>here</a>.
-  </small></p>
+        <p><small>
+                This wrapper site is an (AI-generated) simple golfed SVG viewer, because Chrome
+                limits you to 25% zoom. If you have a good image viewer, you can
+                download the SVG art from
+                <a href="./corner.svg" download>here</a>.
+            </small></p>
 
-  <p class="mozwarn">
-   <b>Warning:</b> this wrapper site does not work properly on Firefox!!.
-  </p>
- </div>
+        <p><small>
+                The site, and the SVG are open source, in a
+                <a href="github.com/matan-h/corner-svg/">github repo</a>.
+            </small></p>
+
+        <p class="mozwarn">
+            <b>Warning:</b> this wrapper site does not work properly on Firefox!!.
+        </p>
+    </div>
 </div>
 
 <script>
-const v=document.getElementById('v'),s=document.getElementById('s')
-const u=document.getElementById('u'),i=document.getElementById('i')
-const close=document.getElementById('close')
+    const v = document.getElementById('v'), s = document.getElementById('s')
+    const u = document.getElementById('u'), i = document.getElementById('i')
+    const close = document.getElementById('close')
 
-let x=0,y=0,z=1,pointers=new Map,pan=null,pinch=null,raf=0
+    let x = 0, y = 0, z = 1, pointers = new Map, pan = null, pinch = null, raf = 0
 
-function draw(){
- if(raf)return
- raf=requestAnimationFrame(()=>{
-  raf=0
-  s.style.transform=`translate(${x}px,${y}px) scale(${z})`
- })
-}
+    function draw() {
+        if (raf) return
+        raf = requestAnimationFrame(() => {
+            raf = 0
+            s.style.transform = `translate(${x}px,${y}px) scale(${z})`
+        })
+    }
 
-function reset(){
- z=Math.min(v.clientWidth/1e4,v.clientHeight/1e4)
- x=(v.clientWidth-1e4*z)/2
- y=(v.clientHeight-1e4*z)/2
- draw()
-}
+    function reset() {
+        z = Math.min(v.clientWidth / 1e4, v.clientHeight / 1e4)
+        x = (v.clientWidth - 1e4 * z) / 2
+        y = (v.clientHeight - 1e4 * z) / 2
+        draw()
+    }
 
-function zoom(k,cx=v.clientWidth/2,cy=v.clientHeight/2){
- let nz=Math.max(.01,Math.min(1600,z*k))
- let a=(cx-x)/z,b=(cy-y)/z
- x=cx-a*nz
- y=cy-b*nz
- z=nz
- draw()
-}
+    function zoom(k, cx = v.clientWidth / 2, cy = v.clientHeight / 2) {
+        let nz = Math.max(.01, Math.min(1600, z * k))
+        let a = (cx - x) / z, b = (cy - y) / z
+        x = cx - a * nz
+        y = cy - b * nz
+        z = nz
+        draw()
+    }
 
-function middle(){
- let a=[...pointers.values()]
- return{
-  x:(a[0].x+a[1].x)/2,
-  y:(a[0].y+a[1].y)/2,
-  d:Math.hypot(a[1].x-a[0].x,a[1].y-a[0].y)
- }
-}
+    function middle() {
+        let a = [...pointers.values()]
+        return {
+            x: (a[0].x + a[1].x) / 2,
+            y: (a[0].y + a[1].y) / 2,
+            d: Math.hypot(a[1].x - a[0].x, a[1].y - a[0].y)
+        }
+    }
 
-v.onpointerdown=e=>{
- if(e.pointerType=="mouse"&&e.button!=1)return
+    v.onpointerdown = e => {
+        if (e.pointerType == "mouse" && e.button != 1) return
 
- pointers.set(e.pointerId,{x:e.clientX,y:e.clientY})
- v.setPointerCapture(e.pointerId)
+        pointers.set(e.pointerId, { x: e.clientX, y: e.clientY })
+        v.setPointerCapture(e.pointerId)
 
- if(pointers.size==1)
-  pan={x:e.clientX,y:e.clientY,ox:x,oy:y}
+        if (pointers.size == 1)
+            pan = { x: e.clientX, y: e.clientY, ox: x, oy: y }
 
- if(pointers.size==2){
-  let c=middle()
-  pinch={x:c.x,y:c.y,d:c.d,z,ox:x,oy:y}
-  pan=null
- }
-}
+        if (pointers.size == 2) {
+            let c = middle()
+            pinch = { x: c.x, y: c.y, d: c.d, z, ox: x, oy: y }
+            pan = null
+        }
+    }
 
-v.onpointermove=e=>{
- let q=pointers.get(e.pointerId)
- if(!q)return
+    v.onpointermove = e => {
+        let q = pointers.get(e.pointerId)
+        if (!q) return
 
- q.x=e.clientX
- q.y=e.clientY
+        q.x = e.clientX
+        q.y = e.clientY
 
- if(pointers.size==1&&pan){
-  x=pan.ox+e.clientX-pan.x
-  y=pan.oy+e.clientY-pan.y
-  draw()
-  return
- }
+        if (pointers.size == 1 && pan) {
+            x = pan.ox + e.clientX - pan.x
+            y = pan.oy + e.clientY - pan.y
+            draw()
+            return
+        }
 
- if(pointers.size==2&&pinch){
-  let c=middle()
-  let nz=Math.max(.01,Math.min(1600,pinch.z*c.d/pinch.d))
-  let a=(pinch.x-pinch.ox)/pinch.z
-  let b=(pinch.y-pinch.oy)/pinch.z
+        if (pointers.size == 2 && pinch) {
+            let c = middle()
+            let nz = Math.max(.01, Math.min(1600, pinch.z * c.d / pinch.d))
+            let a = (pinch.x - pinch.ox) / pinch.z
+            let b = (pinch.y - pinch.oy) / pinch.z
 
-  x=c.x-a*nz
-  y=c.y-b*nz
-  z=nz
-  draw()
- }
-}
+            x = c.x - a * nz
+            y = c.y - b * nz
+            z = nz
+            draw()
+        }
+    }
 
-function up(e){
- pointers.delete(e.pointerId)
+    function up(e) {
+        pointers.delete(e.pointerId)
 
- if(!pointers.size){
-  pan=pinch=null
- }else if(pointers.size==1){
-  let q=[...pointers.values()][0]
-  pan={x:q.x,y:q.y,ox:x,oy:y}
-  pinch=null
- }
-}
+        if (!pointers.size) {
+            pan = pinch = null
+        } else if (pointers.size == 1) {
+            let q = [...pointers.values()][0]
+            pan = { x: q.x, y: q.y, ox: x, oy: y }
+            pinch = null
+        }
+    }
 
-v.onpointerup=up
-v.onpointercancel=up
+    v.onpointerup = up
+    v.onpointercancel = up
 
-v.onwheel=e=>{
- e.preventDefault()
+    v.onwheel = e => {
+        e.preventDefault()
 
- if(e.ctrlKey)
-  zoom(Math.exp(-e.deltaY*.002),e.clientX,e.clientY)
- else{
-  x-=e.deltaX
-  y-=e.deltaY
-  draw()
- }
-}
+        if (e.ctrlKey)
+            zoom(Math.exp(-e.deltaY * .002), e.clientX, e.clientY)
+        else {
+            x -= e.deltaX
+            y -= e.deltaY
+            draw()
+        }
+    }
 
-p.onclick=()=>zoom(1.5)
-m.onclick=()=>zoom(1/1.5)
-r.onclick=reset
+    p.onclick = () => zoom(1.5)
+    m.onclick = () => zoom(1 / 1.5)
+    r.onclick = reset
 
-info.onclick=()=>i.style.display='grid'
+    info.onclick = () => i.style.display = 'grid'
 
-close.onclick=()=>{
- i.style.display='none'
- localStorage.setItem('info','1')
-}
+    close.onclick = () => {
+        i.style.display = 'none'
+        localStorage.setItem('info', '1')
+    }
 
-onkeydown=e=>{
- let k=e.key.toLowerCase()
+    onkeydown = e => {
+        let k = e.key.toLowerCase()
 
- if(k=='h')u.classList.toggle('hide')
- if(k=='i')i.style.display='grid'
- if(e.key=='+'||e.key=='=')zoom(1.5)
- if(e.key=='-')zoom(1/1.5)
- if(e.key=='0')reset()
+        if (k == 'h') u.classList.toggle('hide')
+        if (k == 'i') i.style.display = 'grid'
+        if (e.key == '+' || e.key == '=') zoom(1.5)
+        if (e.key == '-') zoom(1 / 1.5)
+        if (e.key == '0') reset()
 
- if(e.key=='Escape'){
-  i.style.display='none'
-  localStorage.setItem('info','1')
- }
-}
+        if (e.key == 'Escape') {
+            i.style.display = 'none'
+            localStorage.setItem('info', '1')
+        }
+    }
 
-onresize=reset
+    onresize = reset
 
-i.style.display=localStorage.getItem('info')?'none':'grid'
+    i.style.display = localStorage.getItem('info') ? 'none' : 'grid'
 
-reset()
+    reset()
 </script>
